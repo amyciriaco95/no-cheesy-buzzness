@@ -1,5 +1,5 @@
 body {
-    background: url(https://images.unsplash.com/photo-1672935347581-ad3363263d56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80);
+    background: url(https://images.unsplash.com/photo-1672917585946-339e22ac54dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80);
 }
 
 p, a {
@@ -12,7 +12,7 @@ a:link {
 }
 
 h1 {
-    background: #B5F5FD;
+    background: #ED5D02;
     text-indent: 40%;
     border-style: double;
 }
